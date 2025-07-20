@@ -26,7 +26,7 @@ pip install dnspython
 Run the script with:
 
 ```bash
-python3 dns_update.py
+python3 dnsadder.py
 ```
 
 Follow the interactive prompts:
